@@ -7,7 +7,7 @@ Primeiramente, quando você está Azure Ai Vision Studio (https://portal.vision.
 
 Após isso, clique em Extract text from images. Lá você poderá selecionar imagens com texto já so próprio Vision Studio, mas você pode selecionar imagens do seu browser, e foi isso que eu fiz.
 
-![output3](Reconhecimento Facial e transformação de imagens em Dados no Azure ML/output/output3.png)
+<img align="right" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML/output/output3.png?raw=true" width=""/> 
 
 Do lado esquerdo a imagem que eu escolhi, e do direito o texto que a IA conseguiu ler da imagem.
 
@@ -19,11 +19,11 @@ Lá também você poderá selecionar imagens com texto já so próprio Vision St
 
 Primeira imagem:
 
-![output3](Reconhecimento Facial e transformação de imagens em Dados no Azure ML/output/output1.png)
+<img align="right" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML/output/output1.png?raw=true" width=""/> 
 
 Segunda imagem:
 
-![output3](Reconhecimento Facial e transformação de imagens em Dados no Azure ML/output/output2.png)
+<img align="right" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML/output/output2.png?raw=true" width=""/> 
 
 Dessa vez do lado direito da minha imagem, a IA irá fazer uma breve descrição do que está na imagem, tanto na frente como no fundo dela.
 

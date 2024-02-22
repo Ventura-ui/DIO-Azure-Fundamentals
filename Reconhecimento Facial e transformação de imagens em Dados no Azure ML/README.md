@@ -3,7 +3,7 @@
 
 ## Optical character recognition
 
-Primeiramente, quando você está Azure Ai Vision Studio (https://portal.vision.cognitive.azure.com) você deverá selecionar na aba embaixo com o nome Optical character recognition.
+Primeiramente, quando você está Azure Ai Vision Studio portal.vision.cognitive.azure, você deverá selecionar na aba embaixo com o nome Optical character recognition.
 
 Após isso, clique em Extract text from images. Lá você poderá selecionar imagens com texto já so próprio Vision Studio, mas você pode selecionar imagens do seu browser, e foi isso que eu fiz.
 

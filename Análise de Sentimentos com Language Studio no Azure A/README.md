@@ -37,11 +37,11 @@ Eu testei dois textos o primeiro em inglês e o segundo em português. Os textos
 
 Texto 1:
 
-<img align="right" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/An%C3%A1lise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20A/outputs/imagem2.png?raw=true" width=""/> 
+<img align="left" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/An%C3%A1lise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20A/outputs/imagem2.png?raw=true" width=""/> 
 
 Texto 2:
 
-<img align="right" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/An%C3%A1lise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20A/outputs/imagem3.png?raw=true" width=""/> 
+<img align="left" src="https://github.com/Ventura-ui/DIO-Azure-Fundamentals/blob/main/An%C3%A1lise%20de%20Sentimentos%20com%20Language%20Studio%20no%20Azure%20A/outputs/imagem3.png?raw=true" width=""/> 
 
 
 Podemos observar que:
